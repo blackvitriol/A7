@@ -1,2 +1,5 @@
 ~A7
 # Creating this repo to store A7 scripts for remote access/operations
+# Will be connected to Gcloud/alternative cloud to get access to stronger hardware
+# the script is a set of instructions to analyze host system  & connect it to another system
+# the helper system will provide memory (storage) as well as attention (processing)
